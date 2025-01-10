@@ -1,0 +1,7 @@
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/pioasm.dir
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/edit_cache.dir
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/rebuild_cache.dir
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/list_install_components.dir
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/install.dir
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/install/local.dir
+/home/kayla/Projects/embedded/cmake-build-debug/pioasm/CMakeFiles/install/strip.dir
