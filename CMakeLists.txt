@@ -9,7 +9,11 @@ set(CMAKE_CXX_STANDARD 17)
 
 pico_sdk_init()
 
-add_executable(${PROJECT_NAME} main.cpp)
+add_executable(${PROJECT_NAME} src/main.cpp
+        src/morse.hpp
+        src/morse.cpp
+        src/io.hpp
+        src/io.cpp)
 
 target_link_libraries(${PROJECT_NAME}
         pico_stdlib              # for core functionality
