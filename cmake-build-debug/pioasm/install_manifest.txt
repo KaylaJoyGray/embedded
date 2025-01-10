@@ -1,5 +1,0 @@
-/home/kayla/Projects/embedded/cmake-build-debug/pioasm-install/pioasm/pioasm
-/home/kayla/Projects/embedded/cmake-build-debug/pioasm-install/pioasm/pioasmTargets.cmake
-/home/kayla/Projects/embedded/cmake-build-debug/pioasm-install/pioasm/pioasmTargets-release.cmake
-/home/kayla/Projects/embedded/cmake-build-debug/pioasm-install/pioasm/pioasmConfig.cmake
-/home/kayla/Projects/embedded/cmake-build-debug/pioasm-install/pioasm/pioasmConfigVersion.cmake
