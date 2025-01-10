@@ -40,13 +40,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b385cd2-7ae2-4390-bfc4-12e16f1074f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/io.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/morse.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/morse.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/io.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +155,7 @@
       <updated>1736465848718</updated>
       <workItem from="1736465850405" duration="18976000" />
       <workItem from="1736485139989" duration="4043000" />
-      <workItem from="1736544042921" duration="897000" />
+      <workItem from="1736544042921" duration="3145000" />
     </task>
     <servers />
   </component>
