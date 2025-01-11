@@ -256,6 +256,146 @@ std::vector<Morse> to_morse(const char *in) {
             case ' ':
                 out.push_back(WordPause);
                 break;
+            case '.':
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case ',':
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '?':
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case '!':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '/':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case '(':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case ')':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '&':
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case ':':
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case ';':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case '=':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '+':
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
+            case '-':
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '_':
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '$':
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(CharPause);
+                break;
+            case '@':
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(Dash);
+                out.push_back(Dot);
+                out.push_back(CharPause);
+                break;
             default:
                 break;
         }

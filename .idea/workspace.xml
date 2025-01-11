@@ -41,7 +41,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b385cd2-7ae2-4390-bfc4-12e16f1074f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/io.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/morse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/morse.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +62,10 @@
     <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///AIAssistantSnippet." root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/morse.hpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///morse.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -155,7 +157,7 @@
       <updated>1736465848718</updated>
       <workItem from="1736465850405" duration="18976000" />
       <workItem from="1736485139989" duration="4043000" />
-      <workItem from="1736544042921" duration="3145000" />
+      <workItem from="1736544042921" duration="4681000" />
     </task>
     <servers />
   </component>
